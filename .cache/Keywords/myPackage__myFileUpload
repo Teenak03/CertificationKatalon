@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "96DF5B0161890F1659A717E0E8AD863E",
+  "keywordClasses": [
+    {
+      "name": "myPackage.myFileUpload",
+      "keywordMethods": [
+        {
+          "name": "myfile",
+          "parameters": [
+            {
+              "name": "path",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

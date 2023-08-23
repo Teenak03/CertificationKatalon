@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "2C0154B9F8D4517AACFDE8F7BC0AEE1C",
+  "keywordClasses": [
+    {
+      "name": "CustomKeywords",
+      "keywordMethods": [
+        {
+          "name": "openBrowserWithCustomProfile",
+          "parameters": [
+            {
+              "name": "profilePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>uploading</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87d4c3db-18cd-432b-b2bd-474217dca2b9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e23ac5b-fe6e-4df8-a36e-480132268802</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\teena\\\\OneDrive\\\\Documents\\\\Pictures\\\\img.jpg'</defaultValue>
+      <description></description>
+      <id>5e23ac5b-fe6e-4df8-a36e-480132268802</id>
+      <masked>false</masked>
+      <name>imgPath</name>
+   </variable>
+</TestCaseEntity>

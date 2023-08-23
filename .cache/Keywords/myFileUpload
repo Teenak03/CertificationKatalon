@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "F355B2F5804BD4CE2B7166BD6803B265",
+  "keywordClasses": [
+    {
+      "name": "myFileUpload",
+      "keywordMethods": [
+        {
+          "name": "myfile",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

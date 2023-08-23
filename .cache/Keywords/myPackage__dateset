@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B5E26372B151CE3FEF5E772E47B6335E",
+  "keywordClasses": [
+    {
+      "name": "myPackage.dateset",
+      "keywordMethods": [
+        {
+          "name": "setMyDate",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
