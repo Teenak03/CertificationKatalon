@@ -75,7 +75,7 @@ class loginlogout {
 		WebUI.click(findTestObject('Object Repository/KansoOpstest_objects/signIn_button'))
 		WebUI.setText(findTestObject('Object Repository/KansoOpstest_objects/gmail_object'), 'teena.chauhan@kansocloud.com')
 		WebUI.click(findTestObject('Object Repository/KansoOpstest_objects/next_click1'))
-		WebUI.setEncryptedText(findTestObject('Object Repository/KansoOpstest_objects/pass_object'),'WWmjeSYBt6+f/OddB29rzg==')
+
 		WebUI.click(findTestObject('Object Repository/KansoOpstest_objects/next_click'))
 	}
 
